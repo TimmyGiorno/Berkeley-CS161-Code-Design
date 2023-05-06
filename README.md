@@ -1,5 +1,3 @@
-# Project 2 Starter Code
-
 ## 0. Basic Information and Operation
 
 This personal project implementation is for [UC Berkeley CS161 Project2](https://sp23.cs161.org/proj2/), spring 2023.
